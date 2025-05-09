@@ -1,10 +1,10 @@
 # 🚗 Site Carro Esportivo
 
-Um site estático desenvolvido em HTML, CSS e JavaScript com foco em carros esportivos de alto desempenho. O projeto apresenta uma interface moderna e responsiva com destaque para três supercarros icônicos: Porsche 911 Turbo S, Ferrari e Lamborghini.
+Um site estático desenvolvido com HTML, CSS e JavaScript, focado em exibir carros esportivos de alto desempenho. O projeto apresenta uma interface moderna e responsiva, destacando três supercarros icônicos: Porsche 911 Turbo S, Ferrari e Lamborghini.
 
 ## 🔗 Link do Projeto
 
-Você pode visualizar o projeto acessando este link: 👉 [site-carro-esportivo](https://github.com/RenatoRissato/site-carro-esportivo)
+Visualize o projeto aqui: 👉 [site-carro-esportivo](https://github.com/RenatoRissato/site-carro-esportivo)
 
 ## 🖼️ Demonstração
 
@@ -12,62 +12,25 @@ Você pode visualizar o projeto acessando este link: 👉 [site-carro-esportivo]
 <img src="./img/2.png" alt="Ferrari" width="400"/>
 <img src="./img/3.png" alt="Lamborghini" width="400"/>
 
-## 🔧 Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
-- **HTML5** — Estrutura do site
-- **CSS3** — Estilização e responsividade
-- **JavaScript** — Navegação entre os modelos
-- **Google Fonts** — Tipografia estilizada (Poppins, League Gothic)
+- **HTML5**: Estrutura da página web.
+- **CSS3**: Estilização e design responsivo.
+- **JavaScript**: Lógica para a navegação do carrossel.
+- **Google Fonts**: Utilização das fontes Poppins e League Gothic para a tipografia.
 
-## 🚀 Como Navegar
+## 🚀 Funcionalidades
 
-- O site apresenta um carrossel com três carros esportivos.
-- Clique nas setas para navegar entre os modelos.
-- Cada carro exibe o nome, ano, descrição e uma imagem destacada.
-- O botão “Saiba Mais” pode ser usado futuramente para redirecionar a páginas individuais.
+- **Carrossel Interativo:** Apresenta os três carros esportivos com navegação por setas.
+- **Destaque Visual:** Indica qual carro está atualmente em exibição.
+- **Layout Responsivo:** Adapta-se a diferentes tamanhos de tela.
+- **Informações Detalhadas:** Exibe nome, ano e uma breve descrição de cada carro, além da imagem principal.
+- **Botão "Saiba Mais":** Placeholder para futura implementação de links para páginas individuais dos carros.
+- **Tipografia Estilizada:** Utiliza fontes com estética automotiva.
 
-## 🛠 Tecnologias Utilizadas
-
-- HTML
-- CSS
-- JavaScript
-- Google Fonts (Poppins, League Gothic)
-
-## 🚀 Como Navegar
-
-- O site apresenta um carrossel com três carros esportivos.
-- Clique nas setas para navegar entre os modelos.
-- Cada carro exibe o nome, ano, descrição e uma imagem destacada.
-- O botão “Saiba Mais” pode ser usado futuramente para redirecionar a páginas individuais.
-
-## 📂 Estrutura do Projeto
-
-site-carro-esportivo/
-├── img/ # Imagens dos carros e ícones
-│ ├── 1.png
-│ ├── 2.png
-│ ├── 3.png
-│ ├── arrow.png
-│ └── logo.png
-├── index.html # Página principal
-├── styles.css # Estilos do site
-└── scripts.js # Lógica de navegação do carrossel
-## 💻 Funcionalidades
-
-- Carrossel interativo com três carros.
-- Destaque visual para o carro ativo.
-- Layout responsivo adaptado para diferentes telas.
-- Navegação com setas e indicadores numéricos.
-- Uso de fontes estilizadas para estética automotiva.
-
-## 📌 Como Executar Localmente
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/RenatoRissato/site-carro-esportivo.git
-2. Abra o arquivo index.html em um navegador.
-
-##📜 Licença
+## 📜 Licença
 Este projeto é de código aberto e está disponível sob a licença MIT.
 
-Feito com ❤️ por Renato Rissato 🚀
+---
+
+Feito com ❤️ por [Renato Rissato](https://github.com/RenatoRissato) 🚀
