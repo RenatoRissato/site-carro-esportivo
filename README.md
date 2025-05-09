@@ -72,7 +72,3 @@ Você pode visualizar o projeto acessando este link: 👉 [site-carro-esportivo]
 Este projeto é de código aberto e está disponível sob a licença MIT.
 
 Feito com ❤️ por Renato Rissato 🚀
-
----
-
-Se quiser, posso gerar o arquivo `README.md` para você baixar e já colocar no repositório. Deseja que eu fa
