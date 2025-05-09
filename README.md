@@ -48,7 +48,7 @@ site-carro-esportivo/
    ```bash
    git clone https://github.com/RenatoRissato/site-carro-esportivo.git
    ```
-   2. Abra o arquivo `index.html` em um navegador.
+Abra o arquivo `index.html` em um navegador.
   
 ## 📜 Licença
 Este projeto é de código aberto e está disponível sob a licença MIT.
