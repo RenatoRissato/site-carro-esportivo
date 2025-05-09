@@ -19,6 +19,20 @@ Visualize o projeto aqui: 👉 [site-carro-esportivo](https://github.com/RenatoR
 - **JavaScript**: Lógica para a navegação do carrossel.
 - **Google Fonts**: Utilização das fontes Poppins e League Gothic para a tipografia.
 
+## 📂 Estrutura do Projeto
+```
+site-carro-esportivo/
+├── img/ # Imagens dos carros e ícones
+│ ├── 1.png
+│ ├── 2.png
+│ ├── 3.png
+│ ├── arrow.png
+│ └── logo.png
+├── index.html # Página principal
+├── styles.css # Estilos do site
+└── scripts.js # Lógica de navegação do carrossel
+```
+
 ## 🚀 Funcionalidades
 
 - **Carrossel Interativo:** Apresenta os três carros esportivos com navegação por setas.
