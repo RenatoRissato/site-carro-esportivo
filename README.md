@@ -52,3 +52,31 @@ Você pode visualizar o projeto acessando este link: 👉 [site-carro-esportivo]
 ├── 📄 index.html # Página principal
 ├── 📄 styles.css # Estilos do site
 ├── 📄 scripts.js # Lógica de navegação do carrossel
+
+## 💻 Funcionalidades
+
+- Carrossel interativo com três carros.
+- Destaque visual para o carro ativo.
+- Layout responsivo adaptado para diferentes telas.
+- Navegação com setas e indicadores numéricos.
+- Uso de fontes estilizadas para estética automotiva.
+
+## 📌 Como Executar Localmente
+
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/RenatoRissato/site-carro-esportivo.git
+2. Abra o arquivo index.html em um navegador.
+
+📜 Licença
+Este projeto é de código aberto e está disponível sob a licença MIT.
+
+Feito com ❤️ por Renato Rissato 🚀
+
+yaml
+Copiar
+Editar
+
+---
+
+Se quiser, posso gerar o arquivo `README.md` para você baixar e já colocar no repositório. Deseja que eu fa
