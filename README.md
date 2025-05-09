@@ -42,17 +42,16 @@ Você pode visualizar o projeto acessando este link: 👉 [site-carro-esportivo]
 
 ## 📂 Estrutura do Projeto
 
-📂 site-carro-esportivo
-├── 📂 img # Imagens dos carros e ícones
+site-carro-esportivo/
+├── img/ # Imagens dos carros e ícones
 │ ├── 1.png
 │ ├── 2.png
 │ ├── 3.png
 │ ├── arrow.png
 │ └── logo.png
-├── 📄 index.html # Página principal
-├── 📄 styles.css # Estilos do site
-├── 📄 scripts.js # Lógica de navegação do carrossel
-
+├── index.html # Página principal
+├── styles.css # Estilos do site
+└── scripts.js # Lógica de navegação do carrossel
 ## 💻 Funcionalidades
 
 - Carrossel interativo com três carros.
