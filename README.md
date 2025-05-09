@@ -68,14 +68,10 @@ Você pode visualizar o projeto acessando este link: 👉 [site-carro-esportivo]
    git clone https://github.com/RenatoRissato/site-carro-esportivo.git
 2. Abra o arquivo index.html em um navegador.
 
-📜 Licença
+##📜 Licença
 Este projeto é de código aberto e está disponível sob a licença MIT.
 
 Feito com ❤️ por Renato Rissato 🚀
-
-yaml
-Copiar
-Editar
 
 ---
 
