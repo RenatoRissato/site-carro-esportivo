@@ -8,8 +8,6 @@ Visualize o projeto aqui: 👉 [site-carro-esportivo](https://github.com/RenatoR
 
 ## 🖼️ Demonstração
 
-<img src="./img/1.png" alt="Porsche 911 Turbo S" width="400"/>
-<img src="./img/2.png" alt="Ferrari" width="400"/>
 <img src="./img/3.png" alt="Lamborghini" width="400"/>
 
 ## 🛠️ Tecnologias Utilizadas
